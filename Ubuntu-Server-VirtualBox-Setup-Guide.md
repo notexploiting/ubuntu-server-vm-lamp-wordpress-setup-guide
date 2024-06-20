@@ -4,7 +4,11 @@
 
 This is written by work study student Christopher Deng, so [contact me](mailto:c.deng@mail.utoronto.ca) if you have any suggestions or questions about this guide.
 
-Unfortunately, since this is a Markdown file, there is no easier way to 'collaborate' on this. With that being said, you can always email me with additions or fixes. In the meantime, I will keep uploading the updated .pdf files to Microsoft Teams > New College IT > General > Files
+~~Unfortunately, since this is a Markdown file, there is no easier way to 'collaborate' on this. With that being said, you can always email me with additions or fixes.~~
+
+UPDATE: this Markdown file is now available publicly on [GitHub](https://github.com/notexploiting/ubuntu-server-vm-lamp-wordpress-setup-guide), feel free to suggest changes
+
+I will keep uploading the updated .pdf files to Microsoft Teams > New College IT > General > Files
 
 # Introduction
 
