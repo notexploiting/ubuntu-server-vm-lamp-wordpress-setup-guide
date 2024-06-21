@@ -19,9 +19,9 @@ cd path/to/your/directory
 ```
 4. Clone the repositry:
 ```bash
-git clone https://github.com/notexploiting/dough
+git clone https://github.com/notexploiting/ubuntu-server-vm-lamp-wordpress-setup-guide
 ```
 5. Change to the repository directory:
 ```bash
-cd dough
+cd ubuntu-server-vm-lamp-wordpress-setup-guide
 ```
